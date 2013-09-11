@@ -2,6 +2,7 @@
 #include "Employee.h"
 #include <iostream>
 
+//Messages added using github
 int main()
    {
    Manager man;
