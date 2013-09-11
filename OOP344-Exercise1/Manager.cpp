@@ -1,6 +1,7 @@
 #include "Manager.h"
 #include <iostream>
 
+//The manager class is used to log employee hours
 Manager::Manager()
    {
    totalHours = 0;
